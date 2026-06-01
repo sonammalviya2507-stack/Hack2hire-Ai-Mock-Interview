@@ -1,0 +1,6 @@
+{
+  "name": "Hack2Hire",
+  "description": "An AI-powered adaptive tech mock interview platform offering personalized questions, resume parsing, live performance-based difficulty tuning, and extensive visual feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

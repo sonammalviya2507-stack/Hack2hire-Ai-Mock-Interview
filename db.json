@@ -1,0 +1,57 @@
+{
+  "users": {
+    "malviyasonam59@gmail.com": {
+      "email": "malviyasonam59@gmail.com",
+      "fullName": "sonali",
+      "headline": "Data analysis",
+      "reports": [],
+      "password": "12346987",
+      "resumeText": "Pasted / Parsed Resume File",
+      "resumeData": {
+        "contact": {
+          "name": "Jane Doe",
+          "email": "jane.doe@example.com",
+          "phone": "+1 (555) 019-2834"
+        },
+        "skills": [
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Git",
+          "REST APIs",
+          "TailwindCSS"
+        ],
+        "education": [
+          "B.S. in Computer Science - State University (GPA: 3.8/4.0)",
+          "Certified AWS Cloud Developer (2024)"
+        ],
+        "projects": [
+          "E-Commerce Microservices Engine: Designed a distributed microservice checkout flow using NestJS, RabbitMQ and Redis caching.",
+          "Real-time Editor Sandbox: Built a collaborative writing dashboard powered by WebSockets, React and CRDT structures."
+        ],
+        "experience": [
+          "Software Engineer Intern at DevFlow (2023 - Present): Spearheaded rendering optimizations, saving 15% browser CPU usage.",
+          "Full Stack Developer at freelance hub (2022 - 2023): Delivered 12 responsive web applications utilizing TypeScript and TailwindCSS."
+        ]
+      },
+      "jdText": "Data analysis",
+      "jdData": {
+        "role": "Software Engineer",
+        "skills": [
+          "React",
+          "TypeScript",
+          "Node.js",
+          "Express",
+          "SQL"
+        ],
+        "experienceLevel": "Mid-Level",
+        "summary": "Seeking a skilled Software Engineer to join a fast-paced team, driving the development of clean interfaces and scalable business services."
+      }
+    }
+  },
+  "sessions": {}
+}
